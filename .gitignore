@@ -220,3 +220,4 @@ __marimo__/
 .streamlit/secrets.toml
 
 api_key.env
+api_key_week6.env
